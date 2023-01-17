@@ -1,0 +1,41 @@
+
+  .container{
+      display:flex;
+      background-color: yellow;
+
+  }
+  .a{
+      
+      width: 350px;
+      height: 150px;
+      background-color: blue;
+      flex: 1;;
+     
+  }
+  .b{
+    
+    width: 350px;
+    height: 150px;
+    background-color: green;
+    flex: 1;
+
+
+
+  }
+  .c{
+    
+    width: 350px;
+    height: 150px;
+    background-color: purple;
+    flex: 1;
+    
+
+      
+
+  }
+  .d{
+    width: 350px;
+    height: 150px;
+    background-color: red;
+    flex:1;
+  }
